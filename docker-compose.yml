@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: ghcr.io/zyrexnn/cybermes:latest
+    image: ghcr.io/wutheringweather/cybermes:latest
     container_name: cybermes-agent
     stdin_open: true
     tty: true

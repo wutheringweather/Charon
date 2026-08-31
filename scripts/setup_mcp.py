@@ -357,7 +357,7 @@ def inject_config(client: dict, file_path: Path, dry_run: bool):
 
     if ctype == "yaml-hermes":
         content = file_path.read_text(encoding="utf-8") if file_path.is_file() else ""
-        if "cybermes:" in content and ("cybermes-mcp" in content or "@zyrexnn/cybermes-mcp" in content):
+        if "cybermes:" in content and ("cybermes-mcp" in content or "@wutheringweather/cybermes-mcp" in content):
             return {"status": "unchanged", "details": "Already up-to-date in YAML"}
 
         cmd_json = json.dumps(cdef["command"])

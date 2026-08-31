@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/176726?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-176726" target="_blank" rel="noopener noreferrer">
-    <img src="https://trendshift.io/api/badge/trendshift/repositories/176726/daily?language=Python" alt="Zyrexnn%2FCybermes | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/176726/daily?language=Python" alt="wutheringweather%2FCybermes | Trendshift" width="250" height="55"/>
   </a>
 </p>
 
-[![Release](https://img.shields.io/badge/Release-v3.3.0-orange.svg)](https://github.com/Zyrexnn/Cybermes/releases)
+[![Release](https://img.shields.io/badge/Release-v3.3.0-orange.svg)](https://github.com/wutheringweather/Cybermes/releases)
 [![Go: 1.22+](https://img.shields.io/badge/Go-1.22+-00ADD8.svg?logo=go&logoColor=white)](https://go.dev/)
 [![Python: 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![MCP Server](https://img.shields.io/badge/MCP-Supported-purple.svg)](docs/MCP_SETUP.md)
@@ -88,7 +88,7 @@ If you plan to run Cybermes directly from the terminal or in headless CI/CD pipe
 #### Windows (Native PowerShell)
 ```powershell
 # Clone repository and execute installer
-git clone https://github.com/Zyrexnn/Cybermes.git
+git clone https://github.com/wutheringweather/Cybermes.git
 cd Cybermes
 .\setup_windows.ps1
 
@@ -100,7 +100,7 @@ notepad .env
 #### Linux / macOS
 ```bash
 # Clone repository and execute installer
-git clone https://github.com/Zyrexnn/Cybermes.git
+git clone https://github.com/wutheringweather/Cybermes.git
 cd Cybermes
 ./setup.sh
 
@@ -110,7 +110,7 @@ nano .env
 
 #### Docker Container
 ```bash
-git clone https://github.com/Zyrexnn/Cybermes.git && cd Cybermes
+git clone https://github.com/wutheringweather/Cybermes.git && cd Cybermes
 cp .env.example .env && nano .env
 docker compose up -d
 ```
@@ -361,11 +361,11 @@ Thank you to everyone who helps build, maintain, and research Cybermes:
 <table>
   <tr>
     <td align="center" width="160px">
-      <a href="https://github.com/Zyrexnn">
-        <img src="https://github.com/Zyrexnn.png?size=120" width="80px" height="80px" alt="Zyrexnn" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 14px rgba(0, 210, 255, 0.7); padding: 2px;" /><br />
-        <sub><b>Zyrexnn</b></sub>
+      <a href="https://github.com/wutheringweather">
+        <img src="https://github.com/wutheringweather.png?size=120" width="80px" height="80px" alt="wutheringweather" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 14px rgba(0, 210, 255, 0.7); padding: 2px;" /><br />
+        <sub><b>wutheringweather</b></sub>
       </a><br />
-      <a href="https://github.com/Zyrexnn"><img src="https://img.shields.io/badge/★-Project_Lead-00d2ff?style=flat-square" alt="Project Lead" /></a>
+      <a href="https://github.com/wutheringweather"><img src="https://img.shields.io/badge/★-Project_Lead-00d2ff?style=flat-square" alt="Project Lead" /></a>
     </td>
     <td align="center" width="130px">
       <a href="https://github.com/msarg44">
@@ -409,12 +409,12 @@ Thank you to everyone who helps build, maintain, and research Cybermes:
 
 | Contributor | Type | Contribution | Reference |
 | :--- | :--- | :--- | :--- |
-| **[@Zyrexnn](https://github.com/Zyrexnn)** | `Project Lead` | Creator, Core Architecture & Offensive Framework | Main |
-| **[@msarg44](https://github.com/msarg44)** | `Fork / PR` | Playwright PDF rendering engine fix | [#1](https://github.com/Zyrexnn/Cybermes/issues/1) |
-| **[@Mortify4315](https://github.com/Mortify4315)** | `Fork / PR` | Windows Python launcher fallback & Long Path documentation | [#4](https://github.com/Zyrexnn/Cybermes/issues/4), [#5](https://github.com/Zyrexnn/Cybermes/issues/5) |
-| **[@xsoft](https://github.com/xsoft)** | `Accepted Issue` | Linux setup audit, Docker config mounts & workflow diagnostic report | [#7](https://github.com/Zyrexnn/Cybermes/issues/7) |
-| **[@Muzakie-ID](https://github.com/Muzakie-ID)** | `Accepted Issue` | Windows PowerShell setup & script parser bug report | [#10](https://github.com/Zyrexnn/Cybermes/issues/10) |
-| **[@sizoune](https://github.com/sizoune)** | `Accepted Issue` | Docker compose default gateway command & container crash-loop fix | [#17](https://github.com/Zyrexnn/Cybermes/issues/17) |
+| **[@wutheringweather](https://github.com/wutheringweather)** | `Project Lead` | Creator, Core Architecture & Offensive Framework | Main |
+| **[@msarg44](https://github.com/msarg44)** | `Fork / PR` | Playwright PDF rendering engine fix | [#1](https://github.com/wutheringweather/Cybermes/issues/1) |
+| **[@Mortify4315](https://github.com/Mortify4315)** | `Fork / PR` | Windows Python launcher fallback & Long Path documentation | [#4](https://github.com/wutheringweather/Cybermes/issues/4), [#5](https://github.com/wutheringweather/Cybermes/issues/5) |
+| **[@xsoft](https://github.com/xsoft)** | `Accepted Issue` | Linux setup audit, Docker config mounts & workflow diagnostic report | [#7](https://github.com/wutheringweather/Cybermes/issues/7) |
+| **[@Muzakie-ID](https://github.com/Muzakie-ID)** | `Accepted Issue` | Windows PowerShell setup & script parser bug report | [#10](https://github.com/wutheringweather/Cybermes/issues/10) |
+| **[@sizoune](https://github.com/sizoune)** | `Accepted Issue` | Docker compose default gateway command & container crash-loop fix | [#17](https://github.com/wutheringweather/Cybermes/issues/17) |
 
 Want to contribute? Check out our [Contributing Guide](CONTRIBUTING.md) and [Contributors List](CONTRIBUTORS.md).
 

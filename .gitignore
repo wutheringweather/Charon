@@ -108,3 +108,6 @@ desktop.ini
 *.user
 .gemini/
 .claude/
+
+# 9. Landing page (separate repository)
+cybermes-landing/

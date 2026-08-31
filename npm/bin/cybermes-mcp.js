@@ -2,7 +2,7 @@
 
 /**
  * Cybermes MCP Server — Zero-Go Modular NPX Launcher & Universal CLI Suite
- * https://github.com/Zyrexnn/Cybermes
+ * https://github.com/wutheringweather/Cybermes
  */
 
 const { resolveClientTarget } = require('../src/adapters/clients');

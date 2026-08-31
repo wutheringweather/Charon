@@ -12,7 +12,7 @@ import urllib.request
 import subprocess
 from datetime import datetime
 
-REPO = os.environ.get('GITHUB_REPOSITORY', 'Zyrexnn/Cybermes')
+REPO = os.environ.get('GITHUB_REPOSITORY', 'wutheringweather/Cybermes')
 TOKEN = os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN')
 
 if not TOKEN:

@@ -48,7 +48,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 > *(Tip: Choosing a short root directory such as `C:\Cybermes` or `C:\src\Cybermes` also prevents path issues).*
 
 ```powershell
-git clone https://github.com/Zyrexnn/Cybermes.git
+git clone https://github.com/wutheringweather/Cybermes.git
 cd Cybermes
 ```
 
@@ -114,7 +114,7 @@ wsl --install
 ### Step 2: Launch WSL (Ubuntu) and Clone Repo
 Inside your WSL terminal:
 ```bash
-git clone https://github.com/Zyrexnn/Cybermes.git
+git clone https://github.com/wutheringweather/Cybermes.git
 cd Cybermes
 ```
 

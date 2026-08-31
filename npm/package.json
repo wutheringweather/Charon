@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zyrexnn/Cybermes.git"
+    "url": "git+https://github.com/wutheringweather/Cybermes.git"
   },
   "keywords": [
     "mcp",
@@ -25,12 +25,12 @@
     "bug-bounty",
     "recon"
   ],
-  "author": "Zyrexnn",
+  "author": "wutheringweather",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Zyrexnn/Cybermes/issues"
+    "url": "https://github.com/wutheringweather/Cybermes/issues"
   },
-  "homepage": "https://github.com/Zyrexnn/Cybermes#readme",
+  "homepage": "https://github.com/wutheringweather/Cybermes#readme",
   "engines": {
     "node": ">=18.0.0"
   },

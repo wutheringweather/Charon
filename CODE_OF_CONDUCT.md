@@ -55,7 +55,7 @@ This Code of Conduct applies within all community spaces (including GitHub Issue
 
 ## Reporting & Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers via GitHub Issues or private security contact at the repository: [https://github.com/Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers via GitHub Issues or private security contact at the repository: [https://github.com/wutheringweather/Cybermes](https://github.com/wutheringweather/Cybermes). All complaints will be reviewed and investigated promptly and fairly.
 
 ---
 

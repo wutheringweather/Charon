@@ -48,10 +48,10 @@ To maintain a professional, ethical, and high-signal research environment, all p
 
 | Situation | Correct Venue |
 | :--- | :--- |
-| **I have a question about setting up or using Cybermes** | 💬 [GitHub Discussions (Q&A)](https://github.com/Zyrexnn/Cybermes/discussions/categories/q-a) |
-| **I have a feature proposal or improvement idea** | 💡 [GitHub Discussions (Ideas)](https://github.com/Zyrexnn/Cybermes/discussions/categories/ideas) |
-| **I built an awesome workflow or PoC using Cybermes** | 🚀 [GitHub Discussions (Show and Tell)](https://github.com/Zyrexnn/Cybermes/discussions/categories/show-and-tell) |
-| **I found a bug in Cybermes code/scripts** | 🐛 [GitHub Issues](https://github.com/Zyrexnn/Cybermes/issues) |
+| **I have a question about setting up or using Cybermes** | 💬 [GitHub Discussions (Q&A)](https://github.com/wutheringweather/Cybermes/discussions/categories/q-a) |
+| **I have a feature proposal or improvement idea** | 💡 [GitHub Discussions (Ideas)](https://github.com/wutheringweather/Cybermes/discussions/categories/ideas) |
+| **I built an awesome workflow or PoC using Cybermes** | 🚀 [GitHub Discussions (Show and Tell)](https://github.com/wutheringweather/Cybermes/discussions/categories/show-and-tell) |
+| **I found a bug in Cybermes code/scripts** | 🐛 [GitHub Issues](https://github.com/wutheringweather/Cybermes/issues) |
 | **I discovered a security vulnerability within Cybermes itself** | 🔒 [Private Security Advisory](.github/SECURITY.md) |
 | **I want to contribute code, documentation, or tools** | 🛠️ [Contributing Guide (CONTRIBUTING.md)](../CONTRIBUTING.md) |
 
@@ -59,7 +59,7 @@ To maintain a professional, ethical, and high-signal research environment, all p
 
 ## 🌟 Getting Started
 
-- Introduce yourself or ask your first question in [General Discussions](https://github.com/Zyrexnn/Cybermes/discussions/categories/general)!
+- Introduce yourself or ask your first question in [General Discussions](https://github.com/wutheringweather/Cybermes/discussions/categories/general)!
 - Check out the [README](../README.md) and [Windows Installation Guide](../docs/INSTALL_WINDOWS.md) for quick setup guides.
 
 Happy researching & building! 🛡️⚡

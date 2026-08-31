@@ -94,4 +94,4 @@ cybermes-mcp install --global
 
 ## 📄 License
 
-Apache-2.0 (c) Zyrexnn
+Apache-2.0 (c) wutheringweather

@@ -12,7 +12,7 @@ To maintain high code quality, security standards, and reproducibility across au
    - Direct pushes to `main` and `dev` are restricted.
    - **`dev` branch**: Primary development branch. All Pull Requests (PRs) should be branched from and targeted against `dev`.
    - **`main` branch**: Production-ready, stable releases only. `dev` is merged into `main` after complete testing and tagging.
-   - Every PR requires review and explicit approval by the repository maintainer ([@Zyrexnn](https://github.com/Zyrexnn)) before merging.
+   - Every PR requires review and explicit approval by the repository maintainer ([@wutheringweather](https://github.com/wutheringweather)) before merging.
 
 2. **Zero Sensitive Data / Sanitization Standard**:
    - **NEVER** include real target domains, live IP addresses, production credentials, internal tokens, or actual client assessment data.
@@ -79,7 +79,7 @@ git push origin feat/your-feature-name
 ```
 
 ### 5. Open a Pull Request
-* Open a PR against the **`dev`** branch of `Zyrexnn/Cybermes`.
+* Open a PR against the **`dev`** branch of `wutheringweather/Cybermes`.
 * Fill out the automated PR template completely.
 * You are welcome to add yourself to [`CONTRIBUTORS.md`](CONTRIBUTORS.md) as part of your PR.
 * Wait for maintainer review. Respond to feedback or requested changes promptly.
